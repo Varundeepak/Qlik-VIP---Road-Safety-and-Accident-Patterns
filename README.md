@@ -1,2 +1,3 @@
 # Qlik VIP - Road Safety and Accident Patterns in India
 ## Project Description
+This project aims to perform an analysis of road safety and accident patterns in India using available data. By using advanced data visualization techniques in Qlik Sense, we try to find valuable insights into the causes, severity and such other cases of road accidents across the country. This analysis will look into the impact of accidents on various road users, examine the influence of factors like weather conditions and identify high-risk regions. Through interactive and visually attractive dashboards, the project aims to provide a data-driven understanding of the road safety situation in India.
